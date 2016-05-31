@@ -1,5 +1,9 @@
 body {background-color: rgb(255,235,205);}
 
+@font-face {font-family: Fredericka the Great;
+            src: url(FrederickatheGreat-Regular.ttf);
+            }
+
 h1 {text-align: center;}
 
 .puppylove {width: 20%;
